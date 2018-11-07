@@ -4,6 +4,10 @@
     "description": "Dark color theme based on base16 Mocha",
     "version": "0.0.1",
     "publisher": "jxson",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jackson-dean/darkmocha.git"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
