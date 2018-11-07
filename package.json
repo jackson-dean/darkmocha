@@ -1,0 +1,21 @@
+{
+    "name": "darkmocha",
+    "displayName": "Dark Mocha",
+    "description": "Dark color theme based on base16 Mocha",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Mocha",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Mocha-color-theme.json"
+            }
+        ]
+    }
+}
