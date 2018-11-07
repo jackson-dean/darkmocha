@@ -3,6 +3,7 @@
     "displayName": "Dark Mocha",
     "description": "Dark color theme based on base16 Mocha",
     "version": "0.0.1",
+    "publisher": "jxson",
     "engines": {
         "vscode": "^1.28.0"
     },
